@@ -1,0 +1,6 @@
+%{
+  "meeseeks": {:hex, :meeseeks, "0.16.0", "f3442c3fcd9ffd23ccdf6b61c88cacc9f97536b4fcb6788e8f22800f2c59f43e", [:mix], [{:meeseeks_html5ever, "~> 0.13.0", [hex: :meeseeks_html5ever, repo: "hexpm", optional: false]}], "hexpm", "699d60c9897f2bfaba3feb7805d2d964f147bf14d56917f2332986c4cc860afb"},
+  "meeseeks_html5ever": {:hex, :meeseeks_html5ever, "0.13.0", "b0a88d381c31ecff1246dc6fea034798de75fd31bc3e3183409b994d2ffe728d", [:mix], [{:rustler, "~> 0.22.0", [hex: :rustler, repo: "hexpm", optional: false]}], "hexpm", "086701e495068c648faa3050472d64d0251d0b5d5bfb5a2456cbd2a31617d4ff"},
+  "rustler": {:hex, :rustler, "0.22.0", "e2930f9d6933e910f87526bb0a7f904e32b62a7e838a3ca4a884ee7fdfb957ed", [:mix], [{:toml, "~> 0.5.2", [hex: :toml, repo: "hexpm", optional: false]}], "hexpm", "01f5989dd511ebec09be481e07d3c59773d5373c5061e09d3ebc3ef61811b49d"},
+  "toml": {:hex, :toml, "0.5.2", "e471388a8726d1ce51a6b32f864b8228a1eb8edc907a0edf2bb50eab9321b526", [:mix], [], "hexpm", "f1e3dabef71fb510d015fad18c0e05e7c57281001141504c6b69d94e99750a07"},
+}
